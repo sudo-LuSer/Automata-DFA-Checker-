@@ -39,7 +39,6 @@ A C++ implementation of a **Deterministic Finite Automaton (DFA)** with enhanced
 ## 💡 Example Usage
 
 ```cpp
-#include <iostream>
 #include "dfa.hpp" // Example header (if applicable)
 using namespace std;
 
